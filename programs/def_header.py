@@ -2,8 +2,6 @@ import pandas as pd
 import lasio
 import os
 
-filepath = ('c:\Documentos\Github\Header\input\4-brsa-163-rjs_cmr.dlis')
-output_folder_location = ('../outputs')
 
 def header_extractor(directory_path, output_path):
     '''
@@ -48,7 +46,6 @@ def header_extractor(directory_path, output_path):
 
 # Paths
 directory_path = r'C:\Documentos\Github\Header\input'
-
 output_path = r'..Header/outputs'
 
 # Call the function to save in both formats
