@@ -16,7 +16,7 @@ This repository aims to create a routine to standardize the BDO's header file.
 ## Steps
 # For las files
 1- Read dlis file using dlisio 
-2- Convert dlis files to las  
+2- Convert dlis files to las 
 3- Extract the data from las files 
 4- Save the header as csv or .xlsx file 
 
@@ -31,11 +31,11 @@ This repository aims to create a routine to standardize the BDO's header file.
 ## How to install dependencies?
 
 You should have:
-              os
+              os 
               dlisio 
-              lasio
-              panda
-              numpy
+              lasio 
+              panda 
+              numpy 
                     installed. 
 So open your terminal and type the follows.
               
