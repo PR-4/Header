@@ -6,7 +6,7 @@ Routine creates BDO's formal header.
 This repository aims to create a routine to standardize the BDO's header file.
 
 ## Repository structure
-# for las files
+# For las files
 * inputs: folder that contains the input data
 * programs: folder that contains the main program
 * outputs: folder that contains the output las file
@@ -14,7 +14,7 @@ This repository aims to create a routine to standardize the BDO's header file.
 
 
 ## Steps
-# for las files
+# For las files
 1- Read dlis file using dlisio
 2- Convert dlis files to las 
 3- Extract the data from las files
@@ -22,7 +22,7 @@ This repository aims to create a routine to standardize the BDO's header file.
 
 
 
-# for dlis files
+# For dlis files
 1- Read dlis file using dlisio
 2- print on the sreen the file's header
 3- save a txt file that contains the dlis header information
@@ -37,7 +37,7 @@ You should have:
               panda
               numpy
                     installed. 
-  So open your terminal and type the follows.
+So open your terminal and type the follows.
               
 '''
 pip install os
